@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(../img/rio.jpg);
+    background-size: 100%;
+}
+
+.container{
+    width: 60%;
+    text-align: justify;
+    background-color: bisque;
+    border: 1px solid #676767; 
+    margin-left: 20%;
+    margin-top: 2%;
+}
+
+.navbar1{
+    background-color: beige;
+    color: black;
+    padding: 1%;
+}
+
+.navbar1 li{
+    display:inline;
+    padding: 0 2%;
+    margin-left: 5%;
+}
+
+.navbar1 li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.navbar1 li a:hover, a:active {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
+ .footer{
+    padding: 2%;
+    background-color:beige;
+    padding: 2%;
+    color:black;
+    text-align: right;
+    font-weight: bold;
+ }
+  .content p{
+    text-align: center;
+    text-indent: 9%;
+    margin: 3%;
+ }
+
+ .content h2{
+    text-align: center;
+ }
+ .autor{
+    font-weight: bold;
+    text-align: right;
+ }
+ .logo{
+    width: 10%;
+    height: 10%;
+    float: left;
+ }
+
+ .header{
+    position: relative;
+    margin-bottom: 12%;
+    padding: 1%;
+ }
+ .header h1{
+    margin-left: 2%;
+    margin-top: 3%;
+    text-align: center;
+ }
+ .carrossel img{
+    width: 250px;
+    height: 200px;
+
+ }
+
+ .img-home{
+   width: 150px;
+   height: 150px;
+   border-radius: 30%;
+   padding: 1%;
+}
+
+.img-galeria{
+   padding: 2%;
+   width: 280px;
+   height: 280px;
+   border-radius: 10%;
+}
+
+figcaption, a{
+   text-decoration: none;
+   font-size: 18px;
+   color: black;
+   font-weight: bold;
+}
+
+.conecta{
+   text-decoration: none;
+}
+
+.zap-local{
+   float: right;
+   margin: 10% 15% 0 0;
+   text-align: center;
+}
+
+.zap-local img{
+   width: 250px;
+   height: 150px;
+   border-radius: 5px;
+}
+
+.mapa-local{
+   margin-left: 5%;
+}
+
+.grupoform{
+   width: 80%;
+   margin-top: 2%;
+   margin-left: 8%;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 20px;
+}
+.content{
+   padding: 1%;
+   font-size: 18px;
+}
+
